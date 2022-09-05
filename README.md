@@ -20,8 +20,8 @@ Based on the portrait / phase portraits, discuss the population dynamics through
 
 ### Python modules used ###
 
-* matplotlib.pyplot
-* numpy
-* sympy
+* ```matplotlib.pyplot```
+* ```numpy```
+* ```sympy```
 
 *Author: Marta Solarz*
